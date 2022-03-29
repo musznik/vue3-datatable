@@ -1,5 +1,5 @@
 <template>
-    <div class="dt__filter dt-mb-3 dt-w-full">
+    <div class="dt__filter dt-w-full">
         <div class="dt-w-64">
             <label for="email" class="dt-sr-only">Search</label>
             <div class="dt-relative dt-rounded-md dt-shadow-sm">
